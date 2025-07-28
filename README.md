@@ -1,6 +1,7 @@
 <h1>Hi 👋, I'm Parikshit singh</h1>
 <p>A passionate Fullstack Web Developer</p>
 <h2>🚀 Languages and Tools I Use</h2>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fscitechdaily.com%2Fnew-artificial-intelligence-tool-accelerates-discovery-of-truly-new-materials%2F&psig=AOvVaw3tCW717A53Rb8wy00PIUrK&ust=1753783866890000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjz7K-o344DFQAAAAAdAAAAABAd"/>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
